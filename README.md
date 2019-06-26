@@ -66,7 +66,7 @@ Lucian Green - Initial programmer - <a href="https://www.lucianacademy.com/">Luc
 
 # License
 
-I licensed this project under the BSD3 License - see the <a href="LICENSE">LICENSE.md</a> file for details
+I licensed this project under the BSD3 License - see the LICENSE.md file for details
 
 # Addendum
 
